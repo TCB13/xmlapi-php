@@ -1,0 +1,8 @@
+{
+    "name": "tcb13/cpanel-api",
+    "description": "Cpanel API",
+    "require": {},
+    "autoload": {
+        "files": ["xmlapi.php"]
+    }
+}
